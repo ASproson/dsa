@@ -26,4 +26,6 @@ To execute specific console logs:
 
 Root TS files are generated in `src` and are compiled into js inside of `dist` by setting the `rootDir` and `outDir` respectively
 
-CommonJS is swapped for modules via `module: NodeNext` and `moduleResolution: NodeNext` alongside using `npm i -g ts2esm` with `ts2esm` being executed from the root
+I prefer ESModules over CommonJS, and I've swapped them via: `module: NodeNext` and `moduleResolution: NodeNext`
+
+Additionally, we need to `npm i -g ts2esm` and then run `ts2esm` from the root a single time to ensure no issues
