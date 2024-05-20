@@ -2,7 +2,9 @@
 
 This repo serves to collect the most illustrative algorithms for specific concepts across DSA. Each solution is provided with an in-depth overview of the code, a space-time complexity analysis, and covers any classic gotchas
 
-All solutions are written in Typescript and are located in the [src folder](./src/). If you prefer native JavaScript, you can view the compiled versions in the [dist folder](./dist/)
+All solutions are written in Typescript and are located in the [src folder](./src/)
+
+If you prefer native JavaScript, you can view the compiled versions in the [dist folder](./dist/)
 
 ## Installation
 
