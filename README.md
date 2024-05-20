@@ -1,4 +1,6 @@
-# dsa
+# Data Structures and Algorithms
+
+This repo serves to collect the most illustrative algorithms for specific concepts across DSA. Each solution is provided with an in-depth overview of the code, a space-time complexity analysis, and covers any classic gotchas
 
 ## Installation
 
