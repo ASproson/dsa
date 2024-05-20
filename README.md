@@ -22,7 +22,7 @@ To execute specific console logs:
 
 > `node [FILENAME]`
 
-### TSConfig Changes
+## TSConfig Changes
 
 Root TS files are generated in `src` and are compiled into js inside of `dist` by setting the `rootDir` and `outDir` respectively
 
